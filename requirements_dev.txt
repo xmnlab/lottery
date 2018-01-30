@@ -1,0 +1,6 @@
+flake8
+coverage
+Sphinx
+jupyter
+jupyter_nbextensions_configurator
+jupyter_contrib_nbextensions

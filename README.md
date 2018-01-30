@@ -1,2 +1,0 @@
-# lottery
-Lottery Strategies Study
